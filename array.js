@@ -9,4 +9,4 @@ for(i=0; i < array.length; i++){
 if(result.length === 0)
 console.log('нет ничего')
 else
-console.log(`Это массив чисел кратных ${delitel}: ${result}`)
+console.log(`Это массив чисел, кратных ${delitel}: ${result}`)
